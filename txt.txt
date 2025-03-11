@@ -32,7 +32,7 @@ Entidades e Relacionamentos
 
 - Categoria
 - id
-- nome
+- titulo
 - cor (hexadecimal)
 - usuário_id
 
